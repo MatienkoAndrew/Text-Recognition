@@ -64,3 +64,7 @@
 
 ![image](https://github.com/MatienkoAndrew/MiddleDS/assets/29499863/e6e8c316-7d34-4d52-89f8-f1fa10fcd0bc)
 
+##### 5. e_Service_Assembly.ipynb
+
+- Построен пайплайн объединения всех предыдущих моделей (detection -> OCR -> NER)
+- Собран сервис на flask, почти:)
