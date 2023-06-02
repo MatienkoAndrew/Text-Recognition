@@ -38,6 +38,8 @@
 Первая часть приложения -- модель, которая детектирует строки текста на изображении.
 В качестве модели используется модель DB [статья](https://arxiv.org/abs/1911.08947), у которой есть условные "тело" (или "кодировщик") и "голова" (или "декодировщик").
 
+![image](https://github.com/MatienkoAndrew/MiddleDS/assets/29499863/3e5d604d-c87d-436d-87bf-993c9a343392)
+
 #####  2. b_Optical_Character_Recognition.ipynb
 
 Решена задача OCR (Optical Character Recognition).
